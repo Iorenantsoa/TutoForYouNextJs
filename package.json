@@ -1,0 +1,49 @@
+{
+  "name": "sarany-kely",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@headlessui/react": "^1.7.18",
+    "@heroicons/react": "^2.1.3",
+    "@material-tailwind/react": "^2.1.9",
+    "@radix-ui/react-separator": "^1.0.3",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@react-three/fiber": "^8.15.19",
+    "axios": "^1.6.8",
+    "bcrypt": "^5.1.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "date-fns": "^3.6.0",
+    "embla-carousel-react": "^8.0.0",
+    "headlessui": "^0.0.0",
+    "heroicons": "^2.1.1",
+    "lucide-react": "^0.358.0",
+    "mongoose": "^8.2.3",
+    "next": "14.1.3",
+    "next-auth": "^4.24.7",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icon": "^1.0.0",
+    "react-icons": "^5.0.1",
+    "react-toastify": "^10.0.5",
+    "tailwind-merge": "^2.2.2",
+    "tailwindcss-animate": "^1.0.7",
+    "three": "^0.162.0",
+    "tw-elements": "^2.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
